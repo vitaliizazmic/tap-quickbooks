@@ -250,7 +250,7 @@
       "format": "singer.decimal",
       "type": [
         "null",
-        "string"
+        "number"
       ]
     },
     "AllowOnlinePayment": {
@@ -276,7 +276,7 @@
     "ExchangeRate": {
       "type": [
         "null",
-        "string"
+        "number"
       ],
       "format": "singer.decimal"
     },
@@ -284,7 +284,7 @@
       "format": "singer.decimal",
       "type": [
         "null",
-        "string"
+        "number"
       ]
     },
     "Line": {
@@ -326,7 +326,7 @@
             "format": "singer.decimal",
             "type": [
               "null",
-              "string"
+              "number"
             ]
           },
           "SalesItemLineDetail": {
@@ -369,7 +369,7 @@
                 "format": "singer.decimal",
                 "type": [
                   "null",
-                  "string"
+                  "number"
                 ]
               },
               "ServiceDate": {
@@ -403,7 +403,7 @@
                 "format": "singer.decimal",
                 "type": [
                   "null",
-                  "string"
+                  "number"
                 ]
               }
             },
@@ -493,7 +493,7 @@
           "format": "singer.decimal",
           "type": [
             "null",
-            "string"
+            "number"
           ]
         },
         "TaxLine": {
@@ -503,7 +503,7 @@
                 "format": "singer.decimal",
                 "type": [
                   "null",
-                  "string"
+                  "number"
                 ]
               },
               "DetailType": {
@@ -518,14 +518,14 @@
                     "format": "singer.decimal",
                     "type": [
                       "null",
-                      "string"
+                      "number"
                     ]
                   },
                   "TaxPercent": {
                     "format": "singer.decimal",
                     "type": [
                       "null",
-                      "string"
+                      "number"
                     ]
                   },
                   "TaxRateRef": {
@@ -703,7 +703,7 @@
       "format": "singer.decimal",
       "type": [
         "null",
-        "string"
+        "number"
       ]
     },
     "patternProperties": {".+": {}}

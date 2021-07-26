@@ -105,7 +105,7 @@
             "format": "singer.decimal",
             "type": [
               "null",
-              "string"
+              "number"
             ]
           },
           "Description": {
@@ -201,7 +201,7 @@
       "format": "singer.decimal",
       "type": [
         "null",
-        "string"
+        "number"
       ]
     },
     "ApplyTaxAfterDiscount": {
@@ -424,7 +424,7 @@
     "ExchangeRate": {
       "type": [
         "null",
-        "string"
+        "number"
       ],
       "format": "singer.decimal"
     },
@@ -432,7 +432,7 @@
       "format": "singer.decimal",
       "type": [
         "null",
-        "string"
+        "number"
       ]
     },
     "MetaData": {

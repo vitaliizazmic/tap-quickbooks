@@ -121,7 +121,7 @@
       "format": "singer.decimal",
       "type": [
         "null",
-        "string"
+        "number"
       ]
     },
     "CurrencyRef": {
@@ -196,7 +196,7 @@
           "format": "singer.decimal",
           "type": [
             "null",
-            "string"
+            "number"
           ]
         },
         "TaxLine": {
@@ -206,7 +206,7 @@
                 "format": "singer.decimal",
                 "type": [
                   "null",
-                  "string"
+                  "number"
                 ]
               },
               "TaxLineDetail": {
@@ -227,7 +227,7 @@
                     "format": "singer.decimal",
                     "type": [
                       "null",
-                      "string"
+                      "number"
                     ]
                   },
                   "TaxRateRef": {
@@ -358,7 +358,7 @@
             "format": "singer.decimal",
             "type": [
               "null",
-              "string"
+              "number"
             ]
           },
           "SalesItemLineDetail": {
@@ -387,7 +387,7 @@
                 "format": "singer.decimal",
                 "type": [
                   "null",
-                  "string"
+                  "number"
                 ]
               },
               "TaxCodeRef": {
@@ -408,7 +408,7 @@
                 "format": "singer.decimal",
                 "type": [
                   "null",
-                  "string"
+                  "number"
                 ]
               }
             },
@@ -475,7 +475,7 @@
     "ExchangeRate": {
       "type": [
         "null",
-        "string"
+        "number"
       ],
       "format": "singer.decimal"
     },
@@ -483,7 +483,7 @@
       "format": "singer.decimal",
       "type": [
         "null",
-        "string"
+        "number"
       ]
     },
     "ShipAddr": {

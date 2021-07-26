@@ -91,7 +91,7 @@
             "format": "singer.decimal",
             "type": [
               "null",
-              "string"
+              "number"
             ]
           },
           "SalesItemLineDetail": {
@@ -120,7 +120,7 @@
                 "format": "singer.decimal",
                 "type": [
                   "null",
-                  "string"
+                  "number"
                 ]
               },
               "TaxCodeRef": {
@@ -378,7 +378,7 @@
     "ExchangeRate": {
       "type": [
         "null",
-        "string"
+        "number"
       ],
       "format": "singer.decimal"
     },
@@ -386,14 +386,14 @@
       "format": "singer.decimal",
       "type": [
         "null",
-        "string"
+        "number"
       ]
     },
     "TotalAmt": {
       "format": "singer.decimal",
       "type": [
         "null",
-        "string"
+        "number"
       ]
     },
     "patternProperties": {".+": {}}

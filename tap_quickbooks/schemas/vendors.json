@@ -106,7 +106,7 @@
       "format": "singer.decimal",
       "type": [
         "null",
-        "string"
+        "number"
       ]
     },
     "TaxIdentifier": {

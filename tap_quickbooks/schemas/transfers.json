@@ -50,14 +50,14 @@
     "ExchangeRate": {
       "type": [
         "null",
-        "string"
+        "number"
       ],
       "format": "singer.decimal"
     },
     "Amount": {
       "type": [
         "null",
-        "string"
+        "number"
       ],
       "format": "singer.decimal"
     },

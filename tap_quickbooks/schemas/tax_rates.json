@@ -76,7 +76,7 @@
       "format": "singer.decimal",
       "type": [
         "null",
-        "string"
+        "number"
       ]
     },
     "Name": {
@@ -98,7 +98,7 @@
             "RateValue": {
               "type": [
                 "null",
-                "string"
+                "number"
               ],
               "format": "singer.decimal"
             },
@@ -132,7 +132,7 @@
               "RateValue": {
                 "type": [
                   "null",
-                  "string"
+                  "number"
                 ],
                 "format": "singer.decimal"
               },

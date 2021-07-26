@@ -68,7 +68,7 @@
       "format": "singer.decimal",
       "type": [
         "null",
-        "string"
+        "number"
       ]
     },
     "APAccountRef": {
@@ -237,7 +237,7 @@
             "format": "singer.decimal",
             "type": [
               "null",
-              "string"
+              "number"
             ]
           },
           "AccountBasedExpenseLineDetail": {
@@ -356,13 +356,13 @@
       "format": "singer.decimal",
       "type": [
         "null",
-        "string"
+        "number"
       ]
     },
     "ExchangeRate": {
       "type": [
         "null",
-        "string"
+        "number"
       ],
       "format": "singer.decimal"
     },

@@ -154,7 +154,7 @@
   "BillRate": {
     "type": [
       "null",
-      "string"
+      "number"
     ],
     "format": "singer.decimal"
   },

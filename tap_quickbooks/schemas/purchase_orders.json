@@ -343,14 +343,14 @@
     "ExchangeRate": {
       "type": [
         "null",
-        "string"
+        "number"
       ],
       "format": "singer.decimal"
     },
     "TotalAmt": {
       "type": [
         "null",
-        "string"
+        "number"
       ],
       "format": "singer.decimal"
     },
@@ -427,7 +427,7 @@
           "Amount": {
             "type": [
               "null",
-              "string"
+              "number"
             ],
             "format": "singer.decimal"
           },
@@ -504,7 +504,7 @@
               "UnitPrice": {
                 "type": [
                   "null",
-                  "string"
+                  "number"
                 ],
                 "format": "singer.decimal"
               },
