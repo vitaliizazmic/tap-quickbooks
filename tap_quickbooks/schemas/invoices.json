@@ -276,11 +276,9 @@
       "type": [
         "null",
         "number"
-      ],
-      "format": "singer.decimal"
+      ]
     },
     "HomeTotalAmt": {
-      "format": "singer.decimal",
       "type": [
         "null",
         "number"
@@ -322,7 +320,6 @@
             ]
           },
           "Amount": {
-            "format": "singer.decimal",
             "type": [
               "null",
               "number"
@@ -365,7 +362,6 @@
                 ]
               },
               "UnitPrice": {
-                "format": "singer.decimal",
                 "type": [
                   "null",
                   "number"
@@ -399,7 +395,6 @@
                 ]
               },
               "Qty": {
-                "format": "singer.decimal",
                 "type": [
                   "null",
                   "number"
@@ -489,7 +484,6 @@
     "TxnTaxDetail": {
       "properties": {
         "TotalTax": {
-          "format": "singer.decimal",
           "type": [
             "null",
             "number"
@@ -499,7 +493,6 @@
           "items": {
             "properties": {
               "Amount": {
-                "format": "singer.decimal",
                 "type": [
                   "null",
                   "number"
@@ -514,14 +507,12 @@
               "TaxLineDetail": {
                 "properties": {
                   "NetAmountTaxable": {
-                    "format": "singer.decimal",
                     "type": [
                       "null",
                       "number"
                     ]
                   },
                   "TaxPercent": {
-                    "format": "singer.decimal",
                     "type": [
                       "null",
                       "number"
@@ -699,7 +690,6 @@
       ]
     },
     "TotalAmt": {
-      "format": "singer.decimal",
       "type": [
         "null",
         "number"
