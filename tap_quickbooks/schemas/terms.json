@@ -10,8 +10,7 @@
       "type": [
         "null",
         "number"
-      ],
-      "format": "singer.decimal"
+      ]
     },
     "DayOfMonthDue": {
       "type": [

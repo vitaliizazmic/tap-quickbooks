@@ -155,8 +155,7 @@
     "type": [
       "null",
       "number"
-    ],
-    "format": "singer.decimal"
+    ]
   },
   "Suffix": {
     "type": [

@@ -88,7 +88,6 @@
             ]
           },
           "Amount": {
-            "format": "singer.decimal",
             "type": [
               "null",
               "number"
@@ -117,7 +116,6 @@
                 ]
               },
               "Qty": {
-                "format": "singer.decimal",
                 "type": [
                   "null",
                   "number"
@@ -379,18 +377,15 @@
       "type": [
         "null",
         "number"
-      ],
-      "format": "singer.decimal"
+      ]
     },
     "HomeTotalAmt": {
-      "format": "singer.decimal",
       "type": [
         "null",
         "number"
       ]
     },
     "TotalAmt": {
-      "format": "singer.decimal",
       "type": [
         "null",
         "number"

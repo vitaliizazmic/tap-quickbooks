@@ -73,7 +73,6 @@
       ]
     },
     "RateValue": {
-      "format": "singer.decimal",
       "type": [
         "null",
         "number"
@@ -99,8 +98,7 @@
               "type": [
                 "null",
                 "number"
-              ],
-              "format": "singer.decimal"
+              ]
             },
             "EndDate": {
               "type": [
@@ -133,8 +131,7 @@
                 "type": [
                   "null",
                   "number"
-                ],
-                "format": "singer.decimal"
+                ]
               },
               "EndDate": {
                 "type": [

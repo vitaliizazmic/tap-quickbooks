@@ -112,15 +112,13 @@
       "type": [
         "null",
         "number"
-      ],
-      "format": "singer.decimal"
+      ]
     },
     "TotalAmt": {
       "type": [
         "null",
         "number"
-      ],
-      "format": "singer.decimal"
+      ]
     },
     "PrintStatus": {
       "type": [
@@ -258,8 +256,7 @@
                 "type": [
                   "null",
                   "number"
-                ],
-                "format": "singer.decimal"
+                ]
               },
               "TaxCodeRef": {
                 "type": [
@@ -349,8 +346,7 @@
             "type": [
               "null",
               "number"
-            ],
-            "format": "singer.decimal"
+            ]
           },
           "DetailType": {
             "type": [

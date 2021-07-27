@@ -103,7 +103,6 @@
       ]
     },
     "Balance": {
-      "format": "singer.decimal",
       "type": [
         "null",
         "number"

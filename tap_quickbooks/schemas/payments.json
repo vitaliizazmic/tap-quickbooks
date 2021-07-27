@@ -177,8 +177,7 @@
             "type": [
               "null",
               "number"
-            ],
-            "format": "singer.decimal"
+            ]
           }
         }
       }
@@ -205,15 +204,13 @@
       "type": [
         "null",
         "number"
-      ],
-      "format": "singer.decimal"
+      ]
     },
     "TotalAmt": {
       "type": [
         "null",
         "number"
-      ],
-      "format": "singer.decimal"
+      ]
     },
     "LinkedTxn": {
       "type": [

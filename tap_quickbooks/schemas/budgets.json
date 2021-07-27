@@ -147,7 +147,6 @@
             ]
           },
           "Amount": {
-            "format": "singer.decimal",
             "type": [
               "null",
               "number"

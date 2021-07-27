@@ -163,7 +163,6 @@
       ]
     },
     "Balance": {
-      "format": "singer.decimal",
       "type": [
         "null",
         "number"
@@ -202,7 +201,6 @@
       ]
     },
     "BalanceWithJobs": {
-      "format": "singer.decimal",
       "type": [
         "null",
         "number"

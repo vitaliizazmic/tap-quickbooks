@@ -344,15 +344,13 @@
       "type": [
         "null",
         "number"
-      ],
-      "format": "singer.decimal"
+      ]
     },
     "TotalAmt": {
       "type": [
         "null",
         "number"
-      ],
-      "format": "singer.decimal"
+      ]
     },
     "POStatus": {
       "type": [
@@ -428,8 +426,7 @@
             "type": [
               "null",
               "number"
-            ],
-            "format": "singer.decimal"
+            ]
           },
           "LineNum": {
             "type": [
@@ -505,8 +502,7 @@
                 "type": [
                   "null",
                   "number"
-                ],
-                "format": "singer.decimal"
+                ]
               },
               "TaxCodeRef": {
                 "type": [

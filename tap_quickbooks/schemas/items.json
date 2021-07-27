@@ -146,7 +146,6 @@
       ]
     },
     "PurchaseCost": {
-      "format": "singer.decimal",
       "type": [
         "null",
         "number"

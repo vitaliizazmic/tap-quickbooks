@@ -265,8 +265,7 @@
             "type": [
               "null",
               "number"
-            ],
-            "format": "singer.decimal"
+            ]
           },
           "LineNum": {
             "type": [
@@ -310,8 +309,7 @@
                 "type": [
                   "null",
                   "number"
-                ],
-                "format": "singer.decimal"
+                ]
               },
               "UnitPrice": {
                 "type": [
@@ -497,11 +495,9 @@
       "type": [
         "null",
         "number"
-      ],
-      "format": "singer.decimal"
+      ]
     },
     "HomeTotalAmt": {
-      "format": "singer.decimal",
       "type": [
         "null",
         "number"
@@ -511,8 +507,7 @@
       "type": [
         "null",
         "number"
-      ],
-      "format": "singer.decimal"
+      ]
     },
     "DepositToAccountRef": {
       "type": [

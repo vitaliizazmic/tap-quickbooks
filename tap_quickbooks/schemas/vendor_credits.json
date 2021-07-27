@@ -26,15 +26,13 @@
       "type": [
         "null",
         "number"
-      ],
-      "format": "singer.decimal"
+      ]
     },
     "TotalAmt": {
       "type": [
         "null",
         "number"
-      ],
-      "format": "singer.decimal"
+      ]
     },
     "SyncToken": {
       "type": [
@@ -228,8 +226,7 @@
             "type": [
               "null",
               "number"
-            ],
-            "format": "singer.decimal"
+            ]
           },
           "DetailType": {
             "type": [
